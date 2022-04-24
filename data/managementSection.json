@@ -2,15 +2,21 @@
     "blocks": [
         {
             "id": 1,
-            "title": "Why do you need task management software?",
-            "description": "Do you waste time organizing sticky notes, searching your email and apps for to-dos, and figuring out what to work on first? Then you need one solution to prioritize your tasks, manage your time, and meet your deadlines.",
+            "title": "Feeling Anxious?",
+            "description": "Practice our guided meditation excercises to calm your mind",
             "image": "/management/mockup.png"
         },
         {
             "id": 2,
-            "title": "Seamless Team Workflow & Efficient Task Management",
-            "description": "Do you waste time organizing sticky notes, searching your email and apps for to-dos, and figuring out what to work on first? Then you need one solution to prioritize your tasks, manage your time, and meet your deadlines.",
+            "title": "Not sure what to do?",
+            "description": "Take assessments to find out your Mental Health status",
             "image": "/management/app.png"
+        },
+        {
+            "id": 3,
+            "title": "Not sure which Therapist?",
+            "description": "Don't worry, we will match you to the Right Therapist",
+            "image" : "/management/3rd.png"
         }
     ]
 }

@@ -1,22 +1,22 @@
 {
-    "title": "Featured Service that We Provide",
+    "title": "How GoodLives works",
     "blocks": [
         {
             "id": 1,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Get Personalized Recommendations",
+            "description": "Get Mood Generated content along with recommendations tailor-made for You",
             "icon": "/services/service1.svg"
         },
         {
             "id": 2,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Affordable",
+            "description": "At GoodLives, along with affordable Therapy get much more with Free sign ups",        
             "icon": "/services/service2.svg"
         },
         {
             "id": 3,
-            "title": "Keep tasks in one place",
-            "description": "Save time, avoid losing work and information, delegate, and track tasks to stay on schedule",
+            "title": "Hassle free",
+            "description": "We are there to handhold you in Your journey. Get all wellness tools to keep your Mental Health upright",
             "icon": "/services/service3.svg"
         }
     ]

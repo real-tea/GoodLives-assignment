@@ -12,7 +12,7 @@ export default function Home({ hero }) {
   return (
     <>
       <Head>
-        <title>Taskia | Landing Page</title>
+        <title>GoodLives - How it Works</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 

@@ -14,7 +14,7 @@ const Header = () => {
             </div>
             <div className="btn-try">
                 <button>
-                    Try free
+                    Free Account
                 </button>
             </div>
         </header>

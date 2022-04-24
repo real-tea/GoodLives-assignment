@@ -10,8 +10,8 @@ const Footer = () => {
 
             <form>
                 <div className="form-group">
-                    <input type="email" placeholder="Name@company.com" />
-                    <button type="submit" >Try it free</button>
+                    <input type="email" placeholder="GoodLives@gmail.com" />
+                    <button type="submit" >Create a free account</button>
                 </div>
             </form>
         </footer>
